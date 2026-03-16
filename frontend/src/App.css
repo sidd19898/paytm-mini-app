@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body{
+   @apply bg-sky-200;
+   margin: 10px;
+}
